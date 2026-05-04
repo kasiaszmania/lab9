@@ -1,18 +1,6 @@
 [lint]
 select = ["ALL"]
 ignore = [
-    "D",      
-    "ANN",    
-    "T201",   
-    "PLR2004",
-    "PTH",    
-    "S311",   
-    "FBT",    
-    "TRY",     
-    "EM",     
-    "BLE",     
-    "ARG",    
-    "E501",   
-    "RET505",  
-    "SIM108"   
+    "D", "ANN", "T201", "PLR2004", "PTH", "S311", "FBT", "TRY", "EM", "BLE", "ARG", "E501", "RET505", "SIM108",
+    "RUF013", "PERF102", "DTZ", "S101"
 ]
